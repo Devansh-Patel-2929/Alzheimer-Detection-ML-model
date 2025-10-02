@@ -26,6 +26,7 @@ The notebook includes experiments with multiple algorithms to compare performanc
 9. **AdaBoost**  
 10. **Neural Network (MLPClassifier from Scikit-learn)**
 
+---
 
 ## 🛠️ Technologies Used
 - **Python 3.x**
